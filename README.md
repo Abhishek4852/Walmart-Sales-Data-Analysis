@@ -1,6 +1,6 @@
 
 
-### 🛒 Walmart Sales Data Analysis & Market Basket Analysis
+# 🛒 Walmart Sales Data Analysis & Market Basket Analysis
 
 ## 📌 Overview
 
